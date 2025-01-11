@@ -1,5 +1,10 @@
 # Sistema de Acceso con Tarjetas - ESP32 + Node.js + React
 
+### Autores
+- Guillermo Calle Ramos / @Guillermocr221
+- Favio Rouillon Haro / @frouillon
+
+## Introducción
 Este proyecto consiste en un sistema de acceso controlado mediante tarjetas RFID que utiliza un **ESP32** como dispositivo principal para leer las tarjetas, un **backend** desarrollado con **Node.js** y **Express** para gestionar la autenticación, y un **frontend** interactivo desarrollado con **React** para la administración de usuarios y el monitoreo del sistema.
 
 ## Descripción
@@ -19,3 +24,4 @@ El sistema permite a los usuarios registrarse y acceder a áreas controladas med
 [Tarjeta RFID] → [ESP32] → [Backend (Node.js + Express)] → [Frontend (React)]
                                        ↑
                                 Base de datos (MySQL)
+```

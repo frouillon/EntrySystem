@@ -1,0 +1,11 @@
+.historialES__boxacciones{
+    margin-top: 10px;
+    gap: .4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card--hes{
+    margin-top: 4rem;
+}

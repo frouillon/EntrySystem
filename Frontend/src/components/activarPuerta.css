@@ -1,0 +1,15 @@
+.activarPuerta__boton{
+    /* margin-top: 2rem; */
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #1e64f0;
+    border: solid 2px #1e64f0;
+    color: white;
+    transition: all .3s linear;
+}
+
+.activarPuerta__boton:hover{
+    color: white;
+    background-color: #17223c;
+    transition: all .2s linear;
+}
